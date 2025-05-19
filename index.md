@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 body { font-size: 0.8em !important; }
-h1, h2, h3 { font-size: 1em !important; }
+h3 { font-size: 1.3em !important; }
 </style>
 
 Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. 
