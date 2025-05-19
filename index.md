@@ -20,35 +20,34 @@ I enjoy connecting data, people, and ideas—whether in the classroom or through
 
 ### Experience
 
-**Computer and Info Tech Teacher**,<br>
-Lee County High School, Sanford, NC, 2024.08 – present
-
+**Computer and Info Tech Teacher**<br>
+Lee County High School, Sanford, NC, 2024.08 – present<br>
 _As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education._
 
 - Teach entry-level computing and IT courses through lectures, hands-on labs, and real-world projects. 
 - Work with 90+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
 - Bring AI-in-education trends into the classroom by testing emerging tools and designing future-facing lessons. 
 
-**Research Assistant**
-Data Mining Lab, UNC-CH, Chapel Hill, NC, 2024.03 - 2024.07 
-*(How many paths must we wander through / Before we learn what makes AI wise? How many times must minds collide / 'Tween labs and suits in their own disguise? The answer, my friend, is blowin' in the wind / The answer is blowin' in the wind.)* 
+**Research Assistant**<br>
+Data Mining Lab, UNC-CH, Chapel Hill, NC, 2024.03 - 2024.07<br>
+_How many paths must we wander through / Before we learn what makes AI wise? How many times must minds collide / 'Tween labs and suits in their own disguise? The answer, my friend, is blowin' in the wind / The answer is blowin' in the wind._
 - Built methods to detect and explain unintuitive patterns in machine learning models to improve transparency. (Explainable AI, Causal Inference, Influence Functions)
 
-**Analyst Intern**
-NCGrowth, Chapel Hill, NC, 2023.10 - 2023.12 
-*(The work is mostly routine recordkeeping and repetitive office tasks — but the people I work with are genuinely kind:)* 
+**Analyst Intern**<br>
+NCGrowth, Chapel Hill, NC, 2023.10 - 2023.12<br> 
+_The work is mostly routine recordkeeping and repetitive office tasks — but the people I work with are genuinely kind:)_
 - Cleaned and merged 20,000+ vendor records to identify qualified small businesses for large institutional buyers. (Excel, Python) 
 - Worked with cross-functional teams to drive timely deliverables and support regional economic development. 
 
-**Tech Scholar**
-Ally Financial, Chapel Hill, NC, 2023.02 - 2023.05 
-*(Just a toy project from a school-industry program—not impressive, but it opened my eyes to how ML could help with some detailed problems in finance.)* 
+**Tech Scholar**<br>
+Ally Financial, Chapel Hill, NC, 2023.02 - 2023.05<br> 
+_Just a toy project from a school-industry program—not impressive, but it opened my eyes to how ML could help with some detailed problems in finance._
 - Designed dashboards and machine learning models to analyze and classify consumer response data, improving issue tracking and automation. (Pandas, Matplotlib, Scikit-learn) 
 - Developed a web app prototype using traditional NLP techniques to summarize blog content and enhance user experience. (Flask, NLTK) 
 
-**Assistant Intern**
-CITIC Securities, Taiyuan, China, 2020.04 - 2020.06 
-*(This internship made me realize I didn't want to do sales ONLY—diving deeper into analysis could be just as rewarding. It strengthened my decision to pursue Information Science abroad.)* 
+**Assistant Intern**<br>
+CITIC Securities, Taiyuan, China, 2020.04 - 2020.06<br> 
+_This internship made me realize I didn't want to do sales ONLY—diving deeper into analysis could be just as rewarding. It strengthened my decision to pursue Information Science abroad._
 - Conducted risk analysis on stocks to guide product positioning aligned with client risk profiles. (VaR) 
 - Visualized private placement yields and organized roadshow insights to support investment advice. 
 
