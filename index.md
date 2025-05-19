@@ -12,9 +12,9 @@ h3 { font-size: 1.3em !important; }
 
 Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. 
 
-Previously, I worked on projects involving explainable AI, natural language processing, and statistical modeling—applying tools like Python, LLMs, and ensemble methods to solve practical problems, from analyzing consumer feedback to supporting EPA policy research. With a background in information science and economics, 
+Previously, I worked on projects involving explainable AI, natural language processing, and statistical modeling—applying tools like Python, LLMs, and ensemble methods to solve practical problems, from analyzing consumer feedback to supporting EPA policy research. 
 
-I enjoy connecting data, people, and ideas—whether in the classroom or through research. I care about clear communication, thoughtful design, and continuous learning. 
+With a background in information science and economics, I enjoy connecting data, people, and ideas—whether in the classroom or through research. I care about clear communication, thoughtful design, and continuous learning. 
 
 ---
 
