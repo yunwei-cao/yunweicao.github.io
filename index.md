@@ -20,7 +20,7 @@ I enjoy connecting data, people, and ideas—whether in the classroom or through
 
 ### Experience
 
-**Computer and Info Tech Teacher**
+**Computer and Info Tech Teacher**,<br>
 Lee County High School, Sanford, NC, 2024.08 – present
 
 _As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education._
