@@ -55,5 +55,7 @@ CITIC Securities, Taiyuan, China, 2020.04 - 2020.06<br>
 ### Miscellaneous 
 
 **Storytelling on Screen** 
-- One of my favorite pastimes is watching movies and shows—mostly U.S. productions. It's more than entertainment to me; it’s a way to learn about American culture. If I had a side hustle, I’d love to be a film and show reviewer. I admire the storytelling craft, especially the writers and producers—their ability to observe, reflect, and simulate the complexity of real life feels, to me, just as intricate and precise as what computer scientists do in tech. 
-- I log the media I’ve watched on [Douban (豆瓣)](https://www.douban.com/people/waterorcoffee/), a Chinese platform that’s a bit like Goodreads + IMDb. Feel free to check it out—Google Translate and ChatGPT do a decent job helping bridge the language gap. We’re not quite fluent across cultures yet, but we’re getting closer. The universal language might not be code or English—it might just be good storytelling.
+- One of my favorite pastimes is watching movies and shows—mostly U.S. productions. It's more than entertainment to me; it’s a way to learn about American culture.
+- If I had a side hustle, I’d love to be a film and show reviewer. I admire the storytelling craft, especially the writers and producers—their ability to observe, reflect, and simulate the complexity of real life feels, to me, just as intricate and precise as what computer scientists do in tech. 
+- I log the media I’ve watched on [Douban (豆瓣)](https://www.douban.com/people/waterorcoffee/), a Chinese platform that’s a bit like Goodreads + IMDb. Feel free to check it out.
+- Google Translate and ChatGPT do a decent job helping bridge the language gap. We’re not quite fluent across cultures yet, but we’re getting closer. The universal language might not be code or English—it might just be good storytelling.
