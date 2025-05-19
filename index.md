@@ -5,14 +5,19 @@ permalink: /
 author_profile: true
 ---
 
-Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. Previously, I worked on projects involving explainable AI, natural language processing, and statistical modeling—applying tools like Python, LLMs, and ensemble methods to solve practical problems, from analyzing consumer feedback to supporting EPA policy research. With a background in information science and economics, I enjoy connecting data, people, and ideas—whether in the classroom or through research. I care about clear communication, thoughtful design, and continuous learning. 
+### About me
+
+Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. 
+
+Previously, I worked on projects involving explainable AI, natural language processing, and statistical modeling—applying tools like Python, LLMs, and ensemble methods to solve practical problems, from analyzing consumer feedback to supporting EPA policy research. With a background in information science and economics, 
+
+I enjoy connecting data, people, and ideas—whether in the classroom or through research. I care about clear communication, thoughtful design, and continuous learning. 
 
 ---
 
 ### Experience
 
-**Computer and Info Tech Teacher**
-Lee County High School, Sanford, NC, 2024.08 – present
+**Computer and Info Tech Teacher**Lee County High School, Sanford, NC, 2024.08 – present
 *(As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education.)* 
 - Teach entry-level computing and IT courses through lectures, hands-on labs, and real-world projects. 
 - Work with 90+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
