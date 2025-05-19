@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yunwei (Jade) Cao"
+title: "About me"
 permalink: /
 author_profile: true
 ---
@@ -9,8 +9,6 @@ author_profile: true
 body { font-size: 0.95em; }
 h1, h2, h3 { font-size: 1.2em; }
 </style>
-
-### About me
 
 Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. 
 
@@ -23,10 +21,10 @@ I enjoy connecting data, people, and ideas—whether in the classroom or through
 ### Experience
 
 **Computer and Info Tech Teacher**
-_Lee County High School, Sanford, NC, 2024.08 – present_
-<em>
-As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education.
-<em>
+Lee County High School, Sanford, NC, 2024.08 – present
+
+_As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education._
+
 - Teach entry-level computing and IT courses through lectures, hands-on labs, and real-world projects. 
 - Work with 90+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
 - Bring AI-in-education trends into the classroom by testing emerging tools and designing future-facing lessons. 
