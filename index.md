@@ -52,6 +52,17 @@ CITIC Securities, Taiyuan, China, 2020.04 - 2020.06<br>
 
 ---
 
+### Education
+
+**University of North Carolina at Chapel Hill**<br>
+Master of Science in Information Science, Chapel Hill NC, USA, 2022.1-2023.12
+
+**Beijing Language and Culture University**<br>
+Bachelor of Economics in Finance, Beijing, China, 2017.9-2021.6<br> 
+_Awarded top 10% merit scholarship for three consecutive years_
+
+---
+
 ### Miscellaneous 
 
 **Storytelling on Screen** 
