@@ -1,0 +1,25 @@
+title: Yunwei (Jade) Cao
+description: STEM educator and computing enthusiast
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: null
+
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: default
+markdown: kramdown
+
+author:
+  name: "Yunwei (Jade) Cao"
+  avatar: "/yunwei.jpg"
+  bio: "STEM educator, AI tinkerer, and curious observer of people and systems."
+  links:
+    - label: "Email"
+      url: "mailto:yunweicao123@gmail.com"
+    - label: "CV"
+      url: "/yunwei.pdf"
+    - label: "GitHub"
+      url: "https://github.com/yunwei-cao"
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/yunwei-cao"
