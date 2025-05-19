@@ -25,5 +25,4 @@ Worked on explainable AI, NLP, and policy research for the EPA using LLMs and st
 
 🎬 I enjoy watching U.S. movies and shows — not just for fun but also to understand American culture.  
 📚 I log what I watch on [Douban](https://www.douban.com) — a Chinese site like IMDb + Goodreads.
-
 I think good storytelling crosses borders — and so does curiosity.
