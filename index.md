@@ -5,24 +5,46 @@ permalink: /
 author_profile: true
 ---
 
-Hi there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research.  
-I currently teach computer and IT in high school, blending hands-on labs with real-world tech trends to help students build confidence and curiosity in computing.
+Hey there! I’m a STEM educator and data enthusiast with experience across teaching, machine learning, and applied research. I currently teach computer and information technology in high school, where I blend hands-on labs with real-world tech trends to help students build confidence and curiosity in computing. Previously, I worked on projects involving explainable AI, natural language processing, and statistical modeling—applying tools like Python, LLMs, and ensemble methods to solve practical problems, from analyzing consumer feedback to supporting EPA policy research. With a background in information science and economics, I enjoy connecting data, people, and ideas—whether in the classroom or through research. I care about clear communication, thoughtful design, and continuous learning. 
 
 ---
 
 ### Experience
 
-**Computer Science Teacher**, Lee County High School, Sanford, NC  
-*2024.08 – present*  
-I design and teach computing and IT classes for high school students, integrating hands-on labs, emerging AI tools, and adaptive teaching for diverse learners.
+**Computer and Info Tech Teacher**
+Lee County High School, Sanford, NC, 2024.08 – present
+*(As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education.)* 
+- Teach entry-level computing and IT courses through lectures, hands-on labs, and real-world projects. 
+- Work with 90+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
+- Bring AI-in-education trends into the classroom by testing emerging tools and designing future-facing lessons. 
 
-**Research Assistant**, UNC-CH, 2023–2024  
-Worked on explainable AI, NLP, and policy research for the EPA using LLMs and statistical modeling.
+**Research Assistant**
+Data Mining Lab, UNC-CH, Chapel Hill, NC, 2024.03 - 2024.07 
+*(How many paths must we wander through / Before we learn what makes AI wise? How many times must minds collide / 'Tween labs and suits in their own disguise? The answer, my friend, is blowin' in the wind / The answer is blowin' in the wind.)* 
+- Built methods to detect and explain unintuitive patterns in machine learning models to improve transparency. (Explainable AI, Causal Inference, Influence Functions)
+
+**Analyst Intern**
+NCGrowth, Chapel Hill, NC, 2023.10 - 2023.12 
+*(The work is mostly routine recordkeeping and repetitive office tasks — but the people I work with are genuinely kind:)* 
+- Cleaned and merged 20,000+ vendor records to identify qualified small businesses for large institutional buyers. (Excel, Python) 
+- Worked with cross-functional teams to drive timely deliverables and support regional economic development. 
+
+**Tech Scholar**
+Ally Financial, Chapel Hill, NC, 2023.02 - 2023.05 
+*(Just a toy project from a school-industry program—not impressive, but it opened my eyes to how ML could help with some detailed problems in finance.)* 
+- Designed dashboards and machine learning models to analyze and classify consumer response data, improving issue tracking and automation. (Pandas, Matplotlib, Scikit-learn) 
+- Developed a web app prototype using traditional NLP techniques to summarize blog content and enhance user experience. (Flask, NLTK) 
+
+**Assistant Intern**
+CITIC Securities, Taiyuan, China, 2020.04 - 2020.06 
+*(This internship made me realize I didn't want to do sales ONLY—diving deeper into analysis could be just as rewarding. It strengthened my decision to pursue Information Science abroad.)* 
+- Conducted risk analysis on stocks to guide product positioning aligned with client risk profiles. (VaR) 
+- Visualized private placement yields and organized roadshow insights to support investment advice. 
 
 ---
 
-### Misc
+### Miscellaneous 
 
-🎬 I enjoy watching U.S. movies and shows — not just for fun but also to understand American culture.  
-📚 I log what I watch on [Douban](https://www.douban.com) — a Chinese site like IMDb + Goodreads.
-I think good storytelling crosses borders — and so does curiosity.
+**Storytelling on Screen** 
+- One of my favorite pastimes is watching movies and shows—mostly U.S. productions. It's more than entertainment to me; it’s a way to learn about American culture. If I had a side hustle, I’d love to be a film and show reviewer. I admire the storytelling craft, especially the writers and producers—their ability to observe, reflect, and simulate the complexity of real life feels, to me, just as intricate and precise as what computer scientists do in tech. 
+- I log the media I’ve watched on [Douban (豆瓣)](https://www.douban.com/people/waterorcoffee/), a Chinese platform that’s a bit like Goodreads + IMDb. Feel free to check it out—Google Translate and ChatGPT do a decent job helping bridge the language gap. We’re not quite fluent across cultures yet, but we’re getting closer. The universal language might not be code or English—it might just be good storytelling.
