@@ -24,8 +24,8 @@ With a background in information science and economics, I enjoy connecting data,
 Lee County High School, Sanford, NC, 2024.08 – present<br>
 - _As someone who’s experienced both the Chinese and U.S. education systems, I see the cracks in both—and I believe we can do better. I’m especially interested in how AI and thoughtful tech intersect with education._
 - Teach entry-level computing and IT courses through lectures, hands-on labs, and real-world projects. 
-- Work with 90+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
-- Bring AI-in-education trends into the classroom by testing emerging tools and designing future-facing lessons. 
+- Work with 240+ students from diverse backgrounds; adapt teaching to support different learning styles and build confidence. 
+- Integrate AI-in-education trends into teaching practice, drawing on work from the Trailblazer Fellowship to experiment with emerging tools and research-backed strategies to keep lessons relevant and future-focused. 
 
 **Research Assistant**<br>
 Data Mining Lab, UNC-CH, Chapel Hill, NC, 2024.03 - 2024.07<br>
